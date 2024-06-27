@@ -11,7 +11,7 @@ Overview ℹ️
 
 - Clone the repository to your local machine.
 - Make sure you have Python installed.
-
+- Open the terminal and navigate to the directory where you cloned the repository.
 2. Run the Game:
 
 - Open your terminal or command prompt.
