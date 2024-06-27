@@ -40,6 +40,17 @@ Feel free to fork the repository and contribute to the project. If you have any 
 - The game uses a list of predefined words, which can be easily extended or modified.
 - The game uses a simple text-based interface and does not require any additional libraries or dependencies.
 
+  
+## Outputs
+![Screenshot 2024-06-27 104413](https://github.com/SaiSriramKamineni/HangManGame-Python/assets/173617966/db787cbb-3532-4843-84fc-e243b0e58ef7)
+  
+![Screenshot 2024-06-27 104436](https://github.com/SaiSriramKamineni/HangManGame-Python/assets/173617966/f0244d29-ff1a-4a62-9c12-89e6d8a2c9c3)
+
+![Screenshot 2024-06-27 104454](https://github.com/SaiSriramKamineni/HangManGame-Python/assets/173617966/8e020f27-b721-4133-bb4b-983a3c8d3135)
+
+![Screenshot 2024-06-27 104857](https://github.com/SaiSriramKamineni/HangManGame-Python/assets/173617966/5922414c-f738-4fc0-aca5-9d39687f4112)
+
+![Screenshot 2024-06-27 104919](https://github.com/SaiSriramKamineni/HangManGame-Python/assets/173617966/b344650d-8ac4-4e0e-bb36-cdd45430e7fa)
 
 ## License
 
